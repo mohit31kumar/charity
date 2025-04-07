@@ -167,4 +167,13 @@ $conn->close();
     </div>
 
 </body>
+
+
+
+<!-- Steps to Get Your Google Maps API Key
+Go to the Google Cloud Console.
+Create a new project or select an existing one.
+Enable the Maps JavaScript API and Places API for your project.
+Generate an API key and replace YOUR_API_KEY in the script above with your actual API key.
+ -->
 </html>
