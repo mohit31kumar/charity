@@ -1,21 +1,9 @@
 
-# Charity Donation Platform
+# FEEDERS-CONNECT
 
 A simple and efficient web-based donation platform that connects donors with people or organizations in need. This project is designed to streamline the donation process, ensure transparency, and promote charitable giving through a user-friendly interface and PHP-based backend processing.
 
-## 🌐 Live Demo
 
-*(Add your live site URL here if hosted)*
-
-## 📸 Screenshots
-
-### Home Page
-![Home Page](screenshots/home.png)
-
-### Donation Form
-![Donation Form](screenshots/form.png)
-
-> *(You can add your own screenshots in a `screenshots` folder inside the repo)*
 
 ## 📌 Features
 
